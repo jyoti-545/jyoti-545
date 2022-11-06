@@ -1,4 +1,4 @@
-- 👋 Hi! I'm jyoti-545
+- 👋 Hi! I'm Jyoti Kushwaha
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on
 
