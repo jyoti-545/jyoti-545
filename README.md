@@ -1,5 +1,5 @@
 - 👋 Hi! I'm Jyoti Kushwaha
-- 🌱 I’m currently learning Data Science and AI
+- 🌱 Exploring myself in the field of Data Science and AI
 - 👯 I’m looking to collaborate on
 
 
